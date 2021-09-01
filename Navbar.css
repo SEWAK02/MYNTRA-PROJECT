@@ -1,0 +1,15 @@
+.search{
+    width: 400px;
+    background-color: hsl(240, 41%, 97%);
+  
+    }
+    .profilelogo,.wishlistlogo,.baglogo{
+        margin-left: 18px;
+    }
+    .profilename,.wishlistname,.bagname{
+        margin-left: 15px;
+    }
+    .navbar{
+        box-shadow: 1px 1px 6px grey;
+        
+    }
